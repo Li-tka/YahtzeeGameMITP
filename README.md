@@ -14,4 +14,4 @@ If you aren't familiar with the rules of this popular game, you can find them in
 Any moment during the game you can reset it using the "Reset Game" button
 
 After finishing the game, so when all cathegories are scored an announcement with the winner will pop up.
-Additionally the scores are stored in a seperate file called game_data.txt
+Additionally the scores are stored in a seperate file called yahtzee_game_data.txt
