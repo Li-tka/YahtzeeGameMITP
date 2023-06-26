@@ -1,7 +1,7 @@
 # YahtzeeGameMITP
 A python code for playing local multiplayer Yahtzee game with a friend
 
-The game uses python and tkinter library for GUI, make sure your computer is compatible with both to be able to play
+The game uses python 3.11 and tkinter library for GUI, make sure your computer is compatible with both to be able to play
 
 Here are the rules:
 At the bottom of the interface you can see which players' turn it currently is, to roll push the "Roll Dice" button
